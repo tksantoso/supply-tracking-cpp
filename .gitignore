@@ -1,0 +1,6 @@
+#### `.gitignore`
+```text
+*.o
+*.exe
+sistema_insumos
+.vscode/
